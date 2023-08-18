@@ -21,4 +21,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-99bb8627b)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/channels/PdhAlves)
 
-![Snake animation](https://github.com/PedroCunha06/PedroCunha06/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PedroCunha06/PedroCunha06/blob/output/github-contribution-grid-snake.svg)
