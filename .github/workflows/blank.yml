@@ -36,10 +36,7 @@ jobs:
           git config --global user.name "Your Name"
           git add .
           git commit -m "Updated contributions"
-          git status  # Exibir informações sobre o status do repositório
-          git log     # Exibir informações sobre os commits
-          git push https://username:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/PedroCunha06/PedroCunha06.git HEAD:main
-
+          git push origin main
 
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
