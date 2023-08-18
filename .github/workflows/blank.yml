@@ -38,7 +38,7 @@ jobs:
           git commit -m "Updated contributions"
           git status  # Exibir informações sobre o status do repositório
           git log     # Exibir informações sobre os commits
-          git push https://username:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/PedroCunha06/PedroCunha06.git HEAD:master
+          git push https://username:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/PedroCunha06/PedroCunha06.git HEAD:main
 
 
 
